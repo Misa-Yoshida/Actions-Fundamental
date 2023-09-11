@@ -68,3 +68,4 @@
 ## Cheat Sheet
 一般的な用語については、[こちら](./CheatSheet.md)をご参照ください。
 
+bye-bye.
